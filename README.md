@@ -55,7 +55,27 @@ This project demonstrates:
 ✔ Delete Employees  
 ✔ RESTful API Architecture  
 ✔ Clean Separation of Concerns  
+---
+Designed following clean code principles and scalable backend practices.
 
+### 🏗️ Architecture Flow
+
+Controller → Service → Repository → Database
+
+- **Controller Layer**: Handles incoming HTTP requests  
+- **Service Layer**: Contains business logic  
+- **Repository Layer**: Handles database operations  
+- **Model/Entity Layer**: Represents database tables  
+- **DTO Layer**: Transfers data between layers  
+- **Config Layer**: Application-level configurations  
+
+Designed following clean architecture principles and separation of concerns.
 ---
 
-## 📂 Project Architecture
+## ⚙️ How To Run Locally
+
+```bash
+git clone https://github.com/YOUR_USERNAME/EmployeeManagementSystem.git
+cd EmployeeManagementSystem
+chmod +x mvnw
+./mvnw spring-boot:run
