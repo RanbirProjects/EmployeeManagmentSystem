@@ -5,13 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-3.x-brightgreen?style=for-the-badge&logo=springboot"/>
-  <img src="https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven"/>
-  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Maven-3.9+-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-8.0+-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
-
----
 
 ## 📌 Project Overview
 
